@@ -10,7 +10,6 @@ width: 200px;
     padding: 0px;
     display: flex;
     gap: 16px;
-    background-color: grey;
 }
 .itemContainer {
     display: flex;

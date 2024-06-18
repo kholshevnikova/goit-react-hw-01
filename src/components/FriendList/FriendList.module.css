@@ -1,0 +1,12 @@
+.itemContainer {
+    border: 2px solid black;
+    border-radius: 8px;
+    list-style: none;
+    padding: 10px;
+}
+
+.container {
+    display: flex;
+    gap: 15px;
+    
+}
