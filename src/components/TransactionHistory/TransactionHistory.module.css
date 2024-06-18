@@ -1,0 +1,14 @@
+.table{
+width: 100%;
+    border-collapse: collapse;
+}
+.header {
+    background-color: gray;
+        color: white;
+        padding: 10px;
+        text-align: left;
+}
+
+.line:nth-child(even) {
+    background-color: #f2f2f2;
+}
