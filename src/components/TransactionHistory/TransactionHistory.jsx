@@ -14,7 +14,7 @@ export default function TransactionHistory({ items }) {
 
       <tbody>
         {items.map((item) => (
-          <tr className={styles.line} key={items.id}>
+          <tr key={item.id} className={styles.line}>
             <TransactionItem item={item} />
           </tr>
         ))}
